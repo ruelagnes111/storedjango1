@@ -1,0 +1,2 @@
+1 pip install whitenoise
+2 pip install gunicorn
